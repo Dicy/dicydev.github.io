@@ -149,16 +149,19 @@ a {
   @include large {
     font-size: 1.25rem;
     margin-bottom: 1rem;
+    margin-top: 0.2rem;
   }
 
   @include medium {
     font-size: 1.15rem;
     margin-bottom: 0.7rem;
+    margin-top: 0.1rem;
   }
 
   @include small {
     font-size: 1rem;
     margin-bottom: 0.5rem;
+    margin-top: 0.1rem;
   }
 }
 
