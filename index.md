@@ -1,5 +1,6 @@
 ---
 title: DicyDev
+layour: home
 ---
 
 ## Welcome DicyDev's projects website
