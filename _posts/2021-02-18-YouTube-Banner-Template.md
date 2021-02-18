@@ -12,6 +12,6 @@ I'll be quick and brief, here's the image you were looking for:
 
 ![youtube banner template](/images/youtube_banner_template.png)
 
-Right click on the image and select "Save image...", you're pretty much done.
+Right click on the image and select "Save image...", you're pretty much done. If it doesn't work click [here](/images/youtube_banner_template.png).
 
 I hope this resource will be useful for your project, happy designing!
