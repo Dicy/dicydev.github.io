@@ -6,7 +6,7 @@ layout: home
 ## Welcome DicyDev's projects website
 
 DicyDev is a one-person-team founded by [Lorenzo Lapucci](https://github.com/AlexDicy), its aim is to build interesting content.
-Currently working on a Game called [Antony Escape](https://antonyescape.com)
+Currently working on many different projects sush as:
 
 ### [DicyPlay](https://dicyplay.com)
 
