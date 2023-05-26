@@ -8,6 +8,10 @@ layout: home
 DicyDev is a one-person-team founded by [Lorenzo Lapucci](https://github.com/AlexDicy), its aim is to build interesting content.
 Currently working on many different projects sush as:
 
+### [DicyVPN](https://dicyvpn.com)
+
+Responsive and stable VPN service that provides privacy with low latency and allows to access game servers when your network blocks access.
+
 ### [DicyPlay](https://dicyplay.com)
 
 Minecraft network built on top of custom plugins and automated scalability.
