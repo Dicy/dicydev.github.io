@@ -5,23 +5,23 @@ layout: home
 
 ## Welcome DicyDev's projects website
 
-DicyDev is a one-person-team founded by [Lorenzo Lapucci](https://github.com/AlexDicy), its aim is to build interesting content.
-Currently working on many different projects sush as:
+DicyDev is a team founded by [Lorenzo Lapucci](https://github.com/AlexDicy), it aims to build interesting and useful content.
+Currently, we're working and have worked on many different projects such as:
 
 ### [DicyVPN](https://dicyvpn.com)
 
-Responsive and stable VPN service that provides privacy with low latency and allows to access game servers when your network blocks access.
+Responsive and stable VPN service that provides privacy with low latency and allows you to access game servers and websites when your network blocks access.
 
-### [DicyPlay](https://dicyplay.com)
+### DicyPlay (discontinued)
 
 Minecraft network built on top of custom plugins and automated scalability.
 
-### [DeviBase](https://devibase.com/)
+### DeviBase (discontinued)
 
-Check common items specs for Monitors and cables.<br>
+Check common items' specs for Monitors and cables.<br>
 Is the monitor you wish to buy compatible with HDMI you need?<br>
-DeviBase is the repository for devices specs.
+DeviBase is the repository for device specs.
 
 ### Antony Escape (discontinued)
 
-Storyline and Code by DicyDev, preview not yet available, the project is currently in its early stage! (discontinued)
+It's a game with a great storyline behind it. The preview is not available yet, the project is in its early stages! (discontinued)
